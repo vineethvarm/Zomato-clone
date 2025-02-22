@@ -39,9 +39,11 @@ const AddFirm = () => {
     </div>
   </div>
   <div className="col-12">
+    <div className='text-center'>
      <button type="submit" className="btn btn-primary">Submit</button>
   </div>
-</form>
+  </div>
+ </form>
     </div>
   )
 }

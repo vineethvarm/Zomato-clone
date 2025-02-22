@@ -30,8 +30,11 @@ const AddProduct = () => {
      <input type="text" className="form-control" id="inputtext"/>
      </div>
      <div className="col-12">
+     <div className="text-center">
      <button type="submit" className="btn btn-primary">Submit</button>
-    </div>
+     </div>
+     </div>
+    
 </form>
     </div>
   )
