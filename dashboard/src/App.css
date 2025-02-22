@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    background-image: url('https://img.freepik.com/premium-photo/mexican-restaurant_23-2147640326.jpg?w=1380');
+    height: 100%;
+    background-size: cover;
+    font-family: "Inter", serif;
+}
+.fscontainer {
+    font-size: 1.25rem; /* Adjust the font size as needed */
+  }
+/* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/AddFirm.css */
+.firmcontainer {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    height: 688px;
+    width: 500px;
+    border-radius: 5px;
+}
+/* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/AddFirm.css */
+.productcontainer {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    height: 670px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+/* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/Login.css */
+.loginform {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    height: 330px;
+    width: 500px;
+    border-radius: 5px;
+  }
+  /* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/Register.css */
+.registerform {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    height: 450px;
+    width: 500px;
+    border-radius: 5px;
+  }
+.cardcontainer{
+    display: flex;
+
+}
+.sideBarcontainer{
+    border: 0px solid #f8f9fa;
+    background-color: lightgray;
+    width: 100%;
+    max-width: 15%;
+    height: 95vh;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.sideBarcontainer ul li{
+    list-style-type: none;
+    font-weight: 550;
+    cursor: pointer;
+    padding: 25px;
+}
