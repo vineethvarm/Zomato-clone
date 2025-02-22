@@ -30,7 +30,6 @@ const AddFirm = () => {
   <label for="formFile" class="form-label">Firm Image</label>
   <input class="form-control" type="file" id="formFile"/>
  </div>
-
   <div className="col-12">
     <div className="form-check">
       <input className="form-check-input" type="checkbox" id="gridCheck"/>
@@ -40,7 +39,7 @@ const AddFirm = () => {
     </div>
   </div>
   <div className="col-12">
-    <button type="submit" className="btn btn-primary">Submit</button>
+     <button type="submit" className="btn btn-primary">Submit</button>
   </div>
 </form>
     </div>
